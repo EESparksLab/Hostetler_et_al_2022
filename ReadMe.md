@@ -14,4 +14,4 @@ Please see https://github.com/EESparksLab/RootTaggingGUI for information on the 
 
 Please see https://github.com/EESparksLab/BRobot for information regarding the BRobot.
 
-Please e-mail braceroots@gmail.com with any questions or concerns. 
+Please e-mail ashleyhostetler@missouri.edu with any questions or concerns. 
